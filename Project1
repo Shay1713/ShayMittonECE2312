@@ -1,3 +1,5 @@
+% SHAY MITTON PROJECT 1 - ECE 2312
+
 % creating audio recording parameters
 Fs = 44100; 
 nBits = 16; 
